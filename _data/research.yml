@@ -59,12 +59,6 @@
       year: 2024
       doi: 10.33232/001c.124451
       arxiv: 2312.14263
-    - title: "A vast population of wandering and merging IMBHs at cosmic noon"
-      authors: Di Matteo, T., et al.
-      venue: MNRAS, 525, 1479
-      year: 2023
-      doi: 10.1093/mnras/stad2198
-      arxiv: 2210.14960
     - title: "Properties and evolution of dual and offset AGN in the ASTRID simulation at $z \\sim 2$"
       authors: Chen, N., et al.
       me: true
@@ -79,6 +73,26 @@
       doi: 10.1038/s41586-023-05766-6
       arxiv: 2209.11249
 
+- id: offcenter-mbhs
+  title: Off-center MBHs
+  summary: >
+    Studying massive black holes that wander away from the centers of their
+    host galaxies, and the observable signatures they leave behind.
+  papers:
+    - title: "Flyby Galaxy Encounters with Multiple Black Holes Produce Star-forming Linear Features"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJL, 954, L2
+      year: 2023
+      doi: 10.3847/2041-8213/aced45
+      arxiv: 2307.01276
+    - title: "A vast population of wandering and merging IMBHs at cosmic noon"
+      authors: Di Matteo, T., et al.
+      venue: MNRAS, 525, 1479
+      year: 2023
+      doi: 10.1093/mnras/stad2198
+      arxiv: 2210.14960
+
 - id: astrid
   title: The ASTRID Simulation
   summary: >
@@ -92,13 +106,6 @@
       year: 2026
       doi: 10.3847/1538-4357/ae3c08
       arxiv: 2510.13976
-    - title: "Flyby Galaxy Encounters with Multiple Black Holes Produce Star-forming Linear Features"
-      authors: Chen, N., et al.
-      me: true
-      venue: ApJL, 954, L2
-      year: 2023
-      doi: 10.3847/2041-8213/aced45
-      arxiv: 2307.01276
     - title: "Massive black hole mergers with orbital information: predictions from the ASTRID simulation"
       authors: Chen, N., et al.
       me: true
