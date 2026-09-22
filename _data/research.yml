@@ -1,0 +1,140 @@
+# Research themes shown on the Research page (_pages/projects.md).
+# Papers are listed most recent first; `me: true` marks first-author papers.
+
+- id: mbh-mergers
+  title: Massive Black Hole Mergers & Gravitational Waves
+  image: /assets/img/merger/background.png
+  summary: >
+    Modeling how massive black holes sink, pair up, and merge in cosmological
+    simulations, and predicting the gravitational-wave signals they produce for
+    LISA and pulsar timing arrays.
+  papers:
+    - title: "The Gravitational-wave Background from Massive Black Holes in the ASTRID Simulation"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJL, 991, L19
+      year: 2025
+      doi: 10.3847/2041-8213/adefe2
+      arxiv: 2502.01024
+    - title: "MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs"
+      authors: Chen, N., et al.
+      me: true
+      venue: OJAp, 7
+      year: 2024
+      doi: 10.33232/001c.116179
+      arxiv: 2312.09183
+    - title: "Massive black hole mergers with orbital information: predictions from the ASTRID simulation"
+      authors: Chen, N., et al.
+      me: true
+      venue: MNRAS, 514, 2220
+      year: 2022
+      doi: 10.1093/mnras/stac1432
+      arxiv: 2112.08555
+    - title: "Dynamical friction modelling of massive black holes in cosmological simulations and effects on merger rate predictions"
+      authors: Chen, N., et al.
+      me: true
+      venue: MNRAS, 510, 531
+      year: 2022
+      doi: 10.1093/mnras/stab3411
+      arxiv: 2104.00021
+
+- id: dual-agn
+  title: Dual & Offset AGN
+  image: /assets/img/dual/plot_dual.png
+  summary: >
+    Studying pairs of active black holes on kiloparsec scales, the observable
+    precursors of massive black hole binaries, and connecting simulations to
+    current and upcoming dual AGN searches.
+  papers:
+    - title: "Connecting Current and Future Dual Active Galactic Nucleus Searches to LISA and Pulsar Timing Array Gravitational-wave Detections"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJ, 1008, 89
+      year: 2026
+      doi: 10.3847/1538-4357/ae84ce
+      arxiv: 2512.16844
+    - title: "z~2 dual AGN host galaxies are disky: stellar kinematics in the ASTRID Simulation"
+      authors: Dadiani, E., et al.
+      venue: OJAp, 7
+      year: 2024
+      doi: 10.33232/001c.124451
+      arxiv: 2312.14263
+    - title: "Properties and evolution of dual and offset AGN in the ASTRID simulation at $z \\sim 2$"
+      authors: Chen, N., et al.
+      me: true
+      venue: MNRAS, 522, 1895
+      year: 2023
+      doi: 10.1093/mnras/stad834
+      arxiv: 2208.04970
+    - title: "A close quasar pair in a disk–disk galaxy merger at z = 2.17"
+      authors: Chen, Y.-C., et al.
+      venue: Nature, 616, 45
+      year: 2023
+      doi: 10.1038/s41586-023-05766-6
+      arxiv: 2209.11249
+
+- id: astrid
+  title: The ASTRID Simulation
+  summary: >
+    Developing and analyzing ASTRID, a large-volume cosmological
+    hydrodynamical simulation that follows the co-evolution of galaxies and
+    massive black holes across cosmic time.
+  papers:
+    - title: "The ASTRID Simulation at z=0: From Massive Black Holes to Large-scale Structure"
+      authors: Zhou, Y., et al.
+      venue: ApJ, 999, 41
+      year: 2026
+      doi: 10.3847/1538-4357/ae3c08
+      arxiv: 2510.13976
+    - title: "Flyby Galaxy Encounters with Multiple Black Holes Produce Star-forming Linear Features"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJL, 954, L2
+      year: 2023
+      doi: 10.3847/2041-8213/aced45
+      arxiv: 2307.01276
+    - title: "The ASTRID simulation: the evolution of supermassive black holes"
+      authors: Ni, Y., et al.
+      venue: MNRAS, 513, 670
+      year: 2022
+      doi: 10.1093/mnras/stac351
+      arxiv: 2110.14154
+    - title: "The ASTRID simulation: galaxy formation and reionization"
+      authors: Bird, S., et al.
+      venue: MNRAS, 512, 3703
+      year: 2022
+      doi: 10.1093/mnras/stac648
+      arxiv: 2111.01160
+
+- id: reionization-cosmology
+  title: Reionization & Cosmology
+  summary: >
+    Modeling the epoch of reionization and its imprint on the cosmic microwave
+    background, and extracting cosmological information from large surveys.
+  papers:
+    - title: "Patchy Kinetic Sunyaev–Zel’dovich Effect with Controlled Reionization History and Morphology"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJ, 943, 138
+      year: 2023
+      doi: 10.3847/1538-4357/ac8481
+      arxiv: 2203.04337
+    - title: "AMBER: A Semi-numerical Abundance Matching Box for the Epoch of Reionization"
+      authors: Trac, H., et al.
+      venue: ApJ, 927, 186
+      year: 2022
+      doi: 10.3847/1538-4357/ac5116
+      arxiv: 2109.10375
+    - title: "Data compression and covariance matrix inspection: Cosmic shear"
+      authors: Ferreira, T., et al.
+      venue: PRD, 103, 103535
+      year: 2021
+      doi: 10.1103/PhysRevD.103.103535
+      arxiv: 2010.15986
+    - title: "SCORCH. III. Analytical Models of Reionization with Varying Clumping Factors"
+      authors: Chen, N., et al.
+      me: true
+      venue: ApJ, 905, 132
+      year: 2020
+      doi: 10.3847/1538-4357/abc890
+      arxiv: 2004.07854

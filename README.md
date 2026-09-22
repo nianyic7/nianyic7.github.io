@@ -17,7 +17,7 @@ Then open http://localhost:4000.
 - `_pages/about.md`: home page
 - `_pages/publications.md`: publications page (links to Google Scholar)
 - `_pages/cv.md` + `_data/cv.yml` + `assets/pdf/CV_Nianyi.pdf`: CV
-- `_projects/`: project pages
+- `_pages/projects.md` + `_data/research.yml`: Research page (themes and selected papers)
 - `_data/navigation.yml`: top navigation
 - `_config.yml`: site settings and sidebar author profile
 

@@ -56,11 +56,6 @@ exclude:
   - LICENSE
   - vendor
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 defaults:
   - scope:
       path: ""
@@ -68,13 +63,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: false
 
 # -----------------------------------------------------------------------------
 # Markdown
