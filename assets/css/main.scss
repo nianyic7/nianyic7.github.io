@@ -7,33 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-/* Publications list (jekyll-scholar) */
-.publications {
-  ol.bibliography {
-    list-style: none;
-    margin-left: 0;
-    padding-left: 0;
-
-    li {
-      margin-bottom: 1.25em;
-    }
-  }
-
-  .pub-title {
-    font-weight: bold;
-  }
-
-  .pub-authors,
-  .pub-venue {
-    font-size: $type-size-6;
-  }
-
-  .pub-venue {
-    color: $gray;
-  }
-
-  .pub-links a {
-    margin-right: 0.25em;
-  }
-}

@@ -8,6 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
-  gem "jekyll-scholar"
   gem "jemoji"
 end

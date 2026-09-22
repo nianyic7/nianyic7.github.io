@@ -15,7 +15,7 @@ Then open http://localhost:4000.
 ## Where things live
 
 - `_pages/about.md`: home page
-- `_pages/publications.md` + `_bibliography/papers.bib`: publications list (via jekyll-scholar, template in `_layouts/bib.html`)
+- `_pages/publications.md`: publications page (links to Google Scholar)
 - `_pages/cv.md` + `_data/cv.yml` + `assets/pdf/CV_Nianyi.pdf`: CV
 - `_projects/`: project pages
 - `_data/navigation.yml`: top navigation
