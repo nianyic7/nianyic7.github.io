@@ -5310,4 +5310,14 @@ body {
   font-size: 0.75em;
 }
 
+/* Miscellaneous page: notes list */
+.notes-list li {
+  margin-bottom: 0.5em;
+}
+.notes-list .notes-list__meta,
+.notes-list .notes-list__desc {
+  color: #7a8288;
+  font-size: 0.75em;
+}
+
 /*# sourceMappingURL=main.css.map */
