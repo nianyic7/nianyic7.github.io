@@ -32,9 +32,10 @@ author:
     - label: ORCID
       icon: fab fa-fw fa-orcid
       url: https://orcid.org/0000-0001-6627-2533
-    - label: CV
-      icon: fas fa-fw fa-file-pdf
-      url: /assets/pdf/CV_Nianyi.pdf
+    # CV link hidden for now; uncomment to show it again.
+    # - label: CV
+    #   icon: fas fa-fw fa-file-pdf
+    #   url: /assets/pdf/CV_Nianyi.pdf
 
 footer:
   links:
@@ -49,6 +50,11 @@ footer:
 # Content
 # -----------------------------------------------------------------------------
 include: [_pages]
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -63,6 +69,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      sitemap: false
 
 # -----------------------------------------------------------------------------
 # Markdown

@@ -1,6 +1,7 @@
 ---
 title: "CV"
 permalink: /cv/
+published: false # hidden for now; set to true to bring the CV page back
 ---
 
 [Download my full CV (PDF)]({{ "/assets/pdf/CV_Nianyi.pdf" | relative_url }}){: .btn .btn--primary}

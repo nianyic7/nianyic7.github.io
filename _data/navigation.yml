@@ -5,5 +5,8 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /cv/
+  # CV is hidden for now; uncomment to show it again (and set `published: true` in _pages/cv.md).
+  # - title: "CV"
+  #   url: /cv/
+  - title: "Miscellaneous"
+    url: /misc/

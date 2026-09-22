@@ -94,3 +94,16 @@ search: false
     font-size: $type-size-6;
   }
 }
+
+/* Miscellaneous page: notes list */
+.notes-list {
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  .notes-list__meta,
+  .notes-list__desc {
+    color: $gray;
+    font-size: $type-size-6;
+  }
+}
