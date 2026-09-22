@@ -59,6 +59,12 @@
       year: 2024
       doi: 10.33232/001c.124451
       arxiv: 2312.14263
+    - title: "A vast population of wandering and merging IMBHs at cosmic noon"
+      authors: Di Matteo, T., et al.
+      venue: MNRAS, 525, 1479
+      year: 2023
+      doi: 10.1093/mnras/stad2198
+      arxiv: 2210.14960
     - title: "Properties and evolution of dual and offset AGN in the ASTRID simulation at $z \\sim 2$"
       authors: Chen, N., et al.
       me: true
@@ -93,6 +99,13 @@
       year: 2023
       doi: 10.3847/2041-8213/aced45
       arxiv: 2307.01276
+    - title: "Massive black hole mergers with orbital information: predictions from the ASTRID simulation"
+      authors: Chen, N., et al.
+      me: true
+      venue: MNRAS, 514, 2220
+      year: 2022
+      doi: 10.1093/mnras/stac1432
+      arxiv: 2112.08555
     - title: "The ASTRID simulation: the evolution of supermassive black holes"
       authors: Ni, Y., et al.
       venue: MNRAS, 513, 670
