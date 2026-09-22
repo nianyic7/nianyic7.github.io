@@ -10,7 +10,7 @@ minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neo
 locale: en-US
 title: Nianyi Chen
 name: Nianyi Chen
-description: PhD student in astrophysics @ Carnegie Mellon University
+description: Postdoc Member at the IAS, Princeton, joint with MPA, Garching
 url: https://nianyic7.github.io
 baseurl: ""
 repository: nianyic7/nianyic7.github.io
@@ -22,8 +22,8 @@ search: false
 author:
   name: Nianyi Chen
   avatar: /assets/img/prof_pic.png
-  bio: PhD student in astrophysics @ Carnegie Mellon University
-  location: McWilliams Center for Cosmology, Carnegie Mellon University, Pittsburgh, PA, USA 15213
+  bio: Postdoc Member at the IAS, Princeton, joint with MPA, Garching
+  location: Institute for Advanced Study, Princeton, NJ, USA & Max Planck Institute for Astrophysics, Garching, Germany
   email: nianyic@andrew.cmu.edu
   links:
     - label: GitHub
